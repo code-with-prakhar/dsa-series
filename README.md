@@ -1,6 +1,6 @@
 # DSA Series Repository by [Code With Prakhar](https://www.instagram.com/code.with.prakhar/reels/)
 
-Welcome to the *DSA Series** repository! This repository contains all the coding solutions for the problems I discuss and explain on my Instagram page [Code With Prakhar](https://www.instagram.com/code.with.prakhar/reels/).
+Welcome to the *DSA Series* repository! This repository contains all the coding solutions for the problems I discuss and explain on my Instagram page [Code With Prakhar](https://www.instagram.com/code.with.prakhar/reels/).
 
 If you're following my Instagram page, you know I regularly post coding tutorials, tips, and problem-solving techniques through short, engaging reels. Here, you'll find the source code for those problems, neatly organized for your reference and practice.
 
