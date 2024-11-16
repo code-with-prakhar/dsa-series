@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * See Leetcode Link: {@link https://leetcode.com/problems/rotate-string/}
+ * See Leetcode Link: {@link https://leetcode.com/problems/longest-palindromic-substring/description/}
  */
 class LongestPalindromicSubstring {
 
