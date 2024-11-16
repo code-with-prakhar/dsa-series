@@ -34,12 +34,9 @@ Submit a pull request.
 🌟 Follow and Connect
 Stay updated with the latest problems and solutions:
 
-Instagram: Code With Prakhar
-GitHub: @yourusername
+Instagram: @code.with.prakhar [https://www.instagram.com/code.with.prakhar/]
+GitHub: @code-with-prakhar [https://github.com/code-with-prakhar/]
 Let’s learn and grow together. Happy coding! 😊
-
-📜 License
-This repository is licensed under the MIT License. Feel free to use the code for learning and personal projects. For any other use, please provide appropriate credit.
 
 📝 Feedback
 If you have any suggestions for improvements or ideas for new problems you'd like me to solve, feel free to reach out on Instagram or raise an issue in this repository.
